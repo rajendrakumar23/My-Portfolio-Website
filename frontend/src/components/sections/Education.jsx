@@ -10,7 +10,7 @@ const education = [
     institution: 'Punjab Technical University',
     rollNo: '2207792',
     period: '2022 – 2026',
-    status: 'Pursuing',
+    status: 'Completed',
     icon: '🎓',
     highlights: ['MERN Stack Development', 'Data Structures & Algorithms', 'Database Management', 'Software Engineering'],
   },
