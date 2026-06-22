@@ -212,10 +212,10 @@ export default function Projects() {
     longDescription:
       "Responsive portfolio with dark mode, animations and project showcase.",
     category: "frontend",
-    featured: false,
+    featured: true,
     techStack: ["React", "Tailwind", "Framer Motion"],
     githubUrl: "https://github.com/yourgithub/portfolio",
-    liveUrl: "#",
+    liveUrl: "https://myportfoliowebsite95.netlify.app/",
     features: [
       "Dark Mode",
       "Animations",
