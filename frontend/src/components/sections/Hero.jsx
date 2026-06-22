@@ -122,7 +122,7 @@ export default function Hero() {
                 <FiMail size={16} /> Contact Me
               </motion.a>
               <motion.a
-                href="/resume.pdf"
+                href="/Rajendrakumarkushwaha resume.pdf"
                 download
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
