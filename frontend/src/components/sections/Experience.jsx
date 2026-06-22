@@ -5,11 +5,11 @@ import { SectionWrapper, SectionTitle, fadeInUp } from '../ui/SectionWrapper';
 
 const experiences = [
   {
-    role: 'Full Stack Developer (Self-Employed)',
-    company: 'Freelance Projects',
-    location: 'Remote',
-    period: '2023 – Present',
-    type: 'Freelance',
+    role: 'Full Stack Developer (Future Finders Company)',
+    company: 'Future Finders Company',
+    location: 'Mohali, Punjab',
+    period: '2026 – Present',
+    type: 'Office',
     description: 'Building full-stack web applications for clients using MERN stack. Developed portfolio websites, management systems, and REST APIs.',
     achievements: [
       'Delivered 5+ production-ready web applications',
@@ -17,22 +17,22 @@ const experiences = [
       'Integrated MongoDB Atlas for cloud database management',
       'Built responsive UIs with React.js and Tailwind CSS',
     ],
-    tech: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Tailwind CSS'],
+    tech: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Tailwind CSS', 'JWT', 'Git', 'MongoDB Atlas', 'REST API', 'MERN Stack'],
   },
   {
-    role: 'MERN Stack Developer (Learning)',
-    company: 'Self-Directed Learning',
-    location: 'Punjab Technical University',
-    period: '2022 – Present',
-    type: 'Academic',
-    description: 'Actively learning and building projects with MERN stack, focusing on placement preparation and real-world application development.',
+    role: 'Frontend Developer  (Learning)',
+    company: 'Excellence Technologies',
+    location: 'Mohali, Punjab',
+    period: 'june 2024 - july 2024',
+    type: 'Office',
+    description: "Developed responsive and user-friendly web interfaces using HTML, CSS, JavaScript, React.js, and Tailwind CSS.Implemented reusable UI components and integrated REST APIs",
     achievements: [
-      'Completed 10+ hands-on MERN stack projects',
-      'Mastered React hooks, context API, and state management',
-      'Learned REST API design and MongoDB aggregation pipelines',
-      'Practicing DSA for placement preparation',
+      'Completed a 1-month Frontend Developer training program with hands-on project experience',
+      'Built and deployed responsive web applications using React.js and Tailwind CSS.',
+      'Implemented API integrations and modern UI/UX practices in live projects.',
+      'Demonstrated strong problem-solving and teamwork skills in a professional development environment.',
     ],
-    tech: ['JavaScript', 'React.js', 'Node.js', 'MongoDB', 'DSA'],
+    tech: ['JavaScript', 'React.js', 'Tailwind CSS', 'REST API', 'Git', "GitHub", "HTML", "CSS"],
   },
 ];
 

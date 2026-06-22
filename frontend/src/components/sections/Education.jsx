@@ -21,7 +21,7 @@ const education = [
     period: '2020 – 2022',
     status: 'Completed',
     icon: '📚',
-    highlights: ['Physics', 'Chemistry', 'Mathematics', 'Computer Science'],
+    highlights: ['Physics', 'Chemistry', 'Mathematics', 'Hindi', 'English'],
   },
 ];
 
