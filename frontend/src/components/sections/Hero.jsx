@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { TypeAnimation } from 'react-type-animation';
 import { FiGithub, FiLinkedin, FiDownload, FiMail, FiMapPin } from 'react-icons/fi';
 import { useTheme } from '../../context/ThemeContext';
-import profileImg from "../../assets/image.png";
+import profileImg from '../../assets/image1.png';
 
 
 export default function Hero() {
@@ -176,16 +176,8 @@ export default function Hero() {
               {/* Profile Circle */}
               <div className="relative w-40 h-40 sm:w-52 sm:h-52 md:w-60 md:h-60 lg:w-72 lg:h-72 rounded-full gradient-bg p-[3px] float-animation glow">
 
-                <div
-                  className={`w-full h-full rounded-full overflow-hidden ${isDark ? "bg-gray-900" : "bg-white"
-                    }`}
-                >
-                  <img
-                    src={profileImg}
-                    alt="Rajendra Kumar"
-                    // className="w-full h-full object-cover rounded-full"
-                    className="w-full h-full object-cover scale-125 object-top rounded-full"
-                  />
+                <div className="w-full h-full rounded-full overflow-hidden">
+                  <img src={profileImg} alt="Rajendra Kumar" className="w-full h-full object-cover object-top" />
                 </div>
 
               </div>
